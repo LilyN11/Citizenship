@@ -1,0 +1,147 @@
+.button{
+    background-color: skyblue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    text-align: center;
+    color:black;
+    height: 35px;
+    padding: 5px 0;
+}
+
+.body2
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    width: 80%;
+    height: 200px;
+
+}
+
+.first{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    width: 70%;
+}
+
+.barl{
+    color: white;
+}
+
+.inner{
+    margin-top: auto;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.first{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+}
+
+.topp {
+    text-align: center;
+    height:60px;
+    color: aliceblue;
+    font-size: 30px;
+}
+
+.english {
+    visibility: hidden;
+    display:block;
+    margin-top: auto;
+    text-align: center;
+    margin-bottom: auto;
+    font-size: 20px;
+}
+
+.but{
+    margin-top: 15px;
+    background-color: dodgerblue;
+    border-radius: 10px;
+}
+
+.reveal {
+    margin-right:20px;
+    background-color:aliceblue;
+}
+
+.listen{
+    margin-left: 10px;
+    margin-right: 10px; 
+    margin-top: 10px; 
+    height: 160px;
+}
+
+.mem{
+    height: 40px;
+    background-color: azure;
+    padding-bottom: 10px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 5px 5px 5px 5px;
+    border-color: darkblue;
+    border-style: solid;
+}
+
+#match{
+    padding: 20px 20px 20px 20px;
+}
+
+.start{
+    height: 40px;
+    background-image:url(white%20stars.jpg);
+    padding-bottom: 10px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 5px 5px 5px 5px;
+    border-color: darkblue;
+    border-style: solid;
+    color: darkblue;
+    font-weight: 900;
+}
+
+.ans{
+visibility: hidden;
+}
+
+.quest{
+visibility: hidden;
+}
+
+.section{
+    margin-left: 20px;
+}
+
+.tquestions{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.tanswer{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 50%;
+    height:30px;
+}
+
+.tt{
+    margin-left: 20px;
+}
+
+#check{
+    margin-top: 15px;
+    background-color: dodgerblue;
+    border-radius: 10px;
+}
+
+.realanswer{
+    color:dodgerblue;
+}
